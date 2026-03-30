@@ -1,0 +1,45 @@
+{
+  "prompt": "A single-frame editorial illustration that communicates one core data insight emotionally and clearly: workers in high-automation-risk jobs have far less practical access to training and transition opportunities, while lower-automation-risk professionals have more time, more space, and easier access to those same resources. The image must read without any text, labels, legend, axes, numbers, annotations, or panel divisions. Absolutely NO multi-panel composition, NO split-screen, NO before/after layout, NO comic structure. One unified scene only.
+
+Portrait orientation. Visually sophisticated magazine-cover / New York Times Magazine opening-spread quality. Dark painterly realism with thick oil-paint texture, visible brushstrokes, gritty surface, atmospheric depth, dramatic chiaroscuro. Avoid clean vector aesthetics, avoid infographic styling, avoid generic AI fantasy spectacle. The image should feel like a deliberate conceptual editorial illustration, not a poster full of symbols.
+
+Core composition: one continuous interior space
+A large industrial-civic hall or cavernous public atrium in a single uninterrupted composition. The entire scene exists in one room, with no dividing lines. The architecture itself creates unequal access.
+
+A glowing stream of golden sand descends from high above through the center-upper part of the image, like time/opportunity/training resources entering the system. But instead of distributing evenly, the flow is redirected by the room’s structure: it spills past and away from the crowded high-risk workers and pools around the lower-risk professionals. This makes the inequality visible in one scene.
+
+Left / lower / shadowed region: high-risk workers
+In the darker, more cramped part of the same room, a large crowded group of workers in routine jobs occupies roughly two-thirds of the human population in the frame. They include a data-entry worker, cashier, warehouse worker, assembly-line worker, filing clerk, and call-center worker. They are packed tightly together at floor level in shadow, hemmed in by sloping drifts of sand and architectural obstruction. They are not dramatically drowning in a surreal way; instead they are visibly pressed down, crowded, fatigued, and running out of room and time. Their body language shows exhaustion, resignation, quiet urgency.
+
+Critically, the training resources are visible from where they stand but remain physically difficult to reach. A few workers stretch toward them or look up toward them, but barriers of distance, crowding, height, or diverted flow keep access unequal. Their clothing and skin tones are rendered in cold desaturated steel-blue, gray, and ash tones. Their area should feel airless and overburdened.
+
+Right / upper / warmer region: lower-risk professionals
+In the same exact room, the architecture opens into a more spacious, breathable zone where four or five lower-risk professionals stand with room around them: a doctor or healthcare worker, an engineer or architect, a therapist or counselor, a strategic manager or analyst, and a creative professional. They occupy roughly one-third of the human population in the frame. They are not triumphant or smug; they appear stable, calm, and better positioned.
+
+Around them, at arm’s reach, float or rest the upskilling/training resources, integrated naturally into the scene as luminous painterly objects rather than flat icons: a certificate, a mentorship pair, a collaborative learning circle, an apprenticeship gesture of one hand helping another, a professional-development shield or upward marker. These should feel like glowing stained-glass-like motifs or crafted symbolic objects within the world, not app icons. Some professionals lightly interact with them with ease and familiarity.
+
+Their colors are warmer and more alive: muted terracotta, soft olive, warm gray, natural skin warmth.
+
+Important visual thesis
+This is one single environment in which the same opportunities exist, but access is structurally unequal.
+
+The crucial visual message should be immediately understandable without labels:
+
+the high-risk group is larger, more crowded, lower, colder, and separated from opportunity
+the lower-risk group is smaller, more spacious, warmer, and surrounded by opportunity
+the same resource stream enters the system once, but it accumulates around one group and bypasses the other
+Data legibility through proportion
+Make the unequal proportions visually readable. The high-risk side should contain clearly many more people and much less access per person. The low-risk side should contain fewer people and much more access per person. The image should feel like a transformed data visualization, not just an allegory. Use spatial density, height, distance from resources, and unequal distribution of light/sand/resources to imply measurable disparity.
+
+Composition
+No horizontal divider. No top panel / bottom panel. No repeated objects for comparison in separate frames. One coherent visual field with a strong diagonal movement: the eye enters from the top center with the descending golden flow, then sees it diverted toward the warmer right side while the crowded left side remains starved of access. Use negative space strategically around the lower-risk group so the contrast in crowding is obvious.
+
+Style constraints
+Oil painting texture, expressive brushwork, editorial realism, cinematic but grounded. Avoid cliché fantasy symbolism, avoid overloading the image with too many tiny elements, avoid clip-art icons, avoid generic “epic AI mural” composition. Keep the symbolism integrated into the physical world. The emotional tone is unequal opportunity, quiet devastation, and structural exclusion — not melodrama.
+
+No text. No labels. No captions. No legends. No axes. No panel split. No collage. No infographic. Single frame only.",
+  "model": "gpt-image-1.5-high-fidelity",
+  "dataset_name": "McKinsey / OECD AI job displacement projections",
+  "dataset_url": "https://www.oecd.org/employment/automation-policy-brief-2018.pdf",
+  "insight": "the people who are more exposed to automation get less time to spend on training to prevent themselves getting automated"
+}
